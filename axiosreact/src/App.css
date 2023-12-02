@@ -1,0 +1,20 @@
+.container{
+  max-width: 120rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.6rem;
+  padding: 3rem 10rem;
+}
+
+.card{
+  padding: 2rem;
+  text-align: center;
+  border: 1px solid #888;
+}
+.read-the-docs{
+  color:#888;
+}
+
+h1,h2{
+  text-align: center;
+}
